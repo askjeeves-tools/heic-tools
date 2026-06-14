@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://askjeeves.cc/favicon.svg" alt="Ask Jeeves" width="64" height="64" />
+  <img src="https://raw.githubusercontent.com/askjeeves-tools/.github/main/assets/logo-readme.png" alt="Ask Jeeves mascot" width="120" />
 </p>
 
 # HEIC Converter
