@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://askjeeves.cc/favicon.svg" alt="Ask Jeeves" width="64" height="64" />
 </p>
 
