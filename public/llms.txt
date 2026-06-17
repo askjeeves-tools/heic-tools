@@ -1,0 +1,31 @@
+# Free Secure HEIC Converter — Ask Jeeves
+
+> Free, secure HEIC converter. Convert iPhone HEIC photos to JPEG, PNG, or PDF in your browser—files never leave your device.
+
+## Tool
+
+- [Free Secure HEIC Converter](https://heic.askjeeves.cc/): Convert HEIC to JPEG, PNG, or PDF in your browser
+
+## Supported conversions
+
+- HEIC → JPEG
+- HEIC → PNG
+- HEIC → PDF
+
+## FAQ
+
+- Is this HEIC converter free? Yes. Every conversion is free with no account, watermark, or usage limit.
+- Is this HEIC converter secure? Yes. Files are processed locally in your browser. Nothing is uploaded to a server, so your photos stay on your device.
+- What formats can I convert HEIC to? You can convert HEIC or HEIF files to JPEG, PNG, or PDF. JPEG and PNG support quality and max-width options.
+- Does it work with iPhone photos? Yes. HEIC is the default photo format on many iPhones. Upload a .heic or .heif file from your camera roll or Files app.
+- Does the converter work on mobile? Yes. It runs in modern mobile browsers that support HTML5 and JavaScript. Safari may use native HEIC decoding; other browsers use a WASM fallback.
+- What is the maximum file size? Each file can be up to about 50 MB. If a file is too large, you will see a clear error message asking you to use a smaller file.
+- Why did my conversion fail? Common causes are a non-HEIC file, corrupted image data, or exceeding the size limit. Check the message below the converter for specific guidance, then try again or refresh the page.
+
+## Extended context
+
+- [Full site context](https://heic.askjeeves.cc/llms-full.txt): how-it-works, security, and per-conversion details
+
+## More tools
+
+- [Ask Jeeves](https://askjeeves.cc): Free file conversion tools (PDF, images, CSV/JSON/Excel, Word)

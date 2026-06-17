@@ -153,4 +153,4 @@ Do **not** copy `tools/heic-tools/` directly from the monorepo — that folder u
 node scripts/export-standalone-tool.mjs heic-tools ./export/heic-tools
 ```
 
-See [docs/sub-projects.md](https://github.com/montana-digital/askjeeves-modules/blob/main/docs/sub-projects.md) in the upstream repo. See also [STANDALONE.md](STANDALONE.md).
+See [docs/sub-projects.md](https://github.com/montana-digital/askjeeves-modules/blob/main/docs/sub-projects.md) in the upstream repo. See also [STANDALONE.md](STANDALONE.md) and [docs/UI-AND-SEO-ARCHITECTURE.md](docs/UI-AND-SEO-ARCHITECTURE.md).
